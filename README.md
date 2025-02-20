@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Vivien !
+# 👋 Salut, moi c'est Vivien !
 
-### 🚀 Fullstack Web Developer | Symfony, TypeScript & SASS Enthusiast
+### 🚀 Développeur Web Fullstack | Symfony, TypeScript & SASS Enthusiast
 
 Passionné par le développement web, je conçois des applications performantes et ergonomiques en combinant la puissance de Symfony pour le back-end et la flexibilité de TypeScript et SASS pour le front-end. J'aime créer des interfaces fluides, accessibles et modernes tout en optimisant les performances et l'expérience utilisateur.
 
