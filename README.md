@@ -2,18 +2,19 @@
 
 ### 🚀 Développeur Web Fullstack | Symfony, TypeScript & SASS Enthusiast
 
-Passionné par le développement web, je conçois des applications performantes et ergonomiques en combinant la puissance de Symfony pour le back-end et la flexibilité de TypeScript et SASS pour le front-end. J'aime créer des interfaces fluides, accessibles et modernes tout en optimisant les performances et l'expérience utilisateur.
-
 ## 🔧 Technologies & Outils
-- **Back-end :** Symfony, PHP, API Platform
-- **Front-end :** TypeScript, JavaScript (ES6+), SASS, Twig
-- **Base de données :** MySQL, Doctrine
-- **Outils & Autres :** Docker, Git, Webpack, Vite, PHPUnit
+- **Back-end :**
+- ![Symfony](https://img.shields.io/badge/Symfony-0033DD?style=for-the-badge&logo=symfony&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-4c588e?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4c588e?style=for-the-badge&logo=mysql&logoColor=white)
+- 
+- **Front-end :**
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+- **DevOps :**
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-303440?style=for-the-badge&logo=gitlab&logoColor=white)  
 
 ## 🌱 Ce que j'aime développer
 - Applications web et API robustes avec Symfony
 - Expériences utilisateur dynamiques et interactives
-- Intégrations front-end élégantes et modulaires avec SASS et TypeScript
 
 <!--
 **viviengajac/viviengajac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
